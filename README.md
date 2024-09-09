@@ -1,1 +1,1 @@
-# CSharp-OOP
+The C# OOP course delves into key object-oriented programming concepts in C#. It begins with the fundamentals of inheritance and encapsulation, and then progresses to interfaces, abstraction, and polymorphism. Additional topics include exception handling, debugging techniques, and the SOLID principles. The course also explores reflection, attributes, unit testing, mocking, test-driven development, and design patterns.
